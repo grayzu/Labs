@@ -1,2 +1,3 @@
 # Labs
-Content for lab and step-by-step materials
+Content for labs and step-by-step materials
+
